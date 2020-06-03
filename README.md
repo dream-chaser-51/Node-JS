@@ -1,2 +1,2 @@
-# sample-Node-JS
+# Sample-Node-JS
 Training Code
